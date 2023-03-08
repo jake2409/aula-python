@@ -21,7 +21,7 @@ b = 3
 
 a ,b = b, a #somente no python isso funcionaria
 print(a,b)
-'''
+
 a = 1
 b = 2.0
 c = "gabriel"
@@ -31,3 +31,28 @@ f = none
 
 #operadores lógicos >, >=, <, <=, ==, !=, and, or, not, in
 
+
+salario = float(input("Diga seu salario : "))
+
+if salario>10000:
+    print("Bom salario")
+elif(salario>5000):
+    print("Regular")
+else:
+    print("Ruim")
+'''
+
+salario = float(input("Diga seu salario : "))
+resposta = "Isento"
+
+if salario >= 4664.68:
+    reposta = "27,5%"
+elif salario >= 3751.06:
+    resposta = "22,5%"
+elif salario >= 2826.66:
+    resposta = "15%"
+elif salario >= 1903.99:
+    resposta = "7,5%"
+
+
+print(resposta)
