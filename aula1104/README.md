@@ -49,3 +49,10 @@ Após a compra ser confirmada, o estoque deve ser atualizado.
 
 Aqui o sistema deve coletar as informações básicas de entrega do produto para o cliente, seu endereço
 e número da casa.
+
+# Integrantes do grupo:
+Gabriel Aparecido Cassalho Xavier - rm99794
+Gustavo Carmo S. S. L. - rm98279
+Lucas Rodrigues D. - rm550196
+Luísa Cristina S. N. - rm551889
+Pedro Henrique S. M. - rm98804
