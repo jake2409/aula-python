@@ -8,6 +8,7 @@ semáforos locais. Vimos que não existe nenhuma inteligência nesses semáfaros
 fica o tempo de sinal verde que deve permanecer de acordo com a quantidade de carros pa-
 rados. Também não possui a capacidade de perceber veículos que possuem prioridade no tran-
 sito, como ambulâncias ou viaturas.
+
 Levamos em consideração tambem que as pessoas não desligam seu carro durante esse tempo
 parado no semáforo e dessa forma o carro continua consumindo combustível e consequente-
 mente continua soltando poluentes.
@@ -44,6 +45,7 @@ Caso o usuário escolha uma quantidade que existe no estoque, o sistema identifi
 um cadastro. Se já realizou vai informar a onde o produto será entregue e o valor final da compra.
 Após isso perguntará qual a forma de pagamento. Se for dinheiro deverá informar se necessita de troco 
 e pra quanto.
+
 Após a compra ser confirmada, o estoque deve ser atualizado.
 ### Opção 3: Cadastro
 
@@ -51,8 +53,12 @@ Aqui o sistema deve coletar as informações básicas de entrega do produto para
 e número da casa.
 
 # Integrantes do grupo:
-Gabriel Aparecido Cassalho Xavier - rm99794
-Gustavo Carmo S. S. L. - rm98279
-Lucas Rodrigues D. - rm550196
-Luísa Cristina S. N. - rm551889
-Pedro Henrique S. M. - rm98804
+Gabriel Aparecido Cassalho Xavier - rm99794.
+
+Gustavo Carmo S. S. L. - rm98279.
+
+Lucas Rodrigues D. - rm550196.
+
+Luísa Cristina S. N. - rm551889.
+
+Pedro Henrique S. M. - rm98804.
