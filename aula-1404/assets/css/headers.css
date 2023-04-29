@@ -1,0 +1,24 @@
+/* header-page */
+.header-page {
+    width: 100%;
+    height: 100px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+    /*justify-content: space-around; Espaçamento no centro sem grudar na borda */
+    /*justify-content: space-evenly; Igual Espaçamento do around mas os espaços são exatamente iguais entre os elementos */
+    padding: 0 20px;
+    position: fixed; /* Sempre que assumir a posição absolute definir a largura pois se não assume a largura natural da quantidade dos itens*/
+    top: 0;
+    left: 0;
+}
+
+.header-menu ul {
+    display : flex;
+    gap: 20px;
+}
+
+.header-page a {
+    color: #fff;
+}

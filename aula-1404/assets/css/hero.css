@@ -1,0 +1,15 @@
+.hero {
+    width: 100%;
+    text-align: center;
+    color: #fff;
+}
+
+.hero-title {
+    font-size: 6vmax;
+}
+
+.hero-text {
+    width: 50%;
+    margin: 0 auto;
+    margin-bottom: 30px;    
+}
