@@ -1,0 +1,25 @@
+body {
+  background-color: #c4c4c4;
+  width: 80%;
+  margin: 20px auto;
+  font-family: calibre;
+}
+body .container {
+  background-color: #900;
+  color: #fff;
+  padding: 15px;
+  box-sizing: border-box;
+}
+body .container h1 {
+  font-size: 3rem;
+  text-transform: uppercase;
+}
+body .container p {
+  font-size: 2rem;
+}
+body .container a {
+  text-decoration: none;
+  color: #333;
+}
+
+/*# sourceMappingURL=style.css.map */
